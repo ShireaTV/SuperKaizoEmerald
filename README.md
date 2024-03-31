@@ -1,4 +1,6 @@
-# SuperKaizoEmerald
+# Super Kaizo Emerald
+Thank you to Shorts, SaltyDolphin, and LB_Dubss for feedback and theorycrafting to make this a more refined layout of rules for Emerald.
+
 Same rules as FRLG Super Kaizo by Iateyourpie except the following.
 
 60% Level Scaling
